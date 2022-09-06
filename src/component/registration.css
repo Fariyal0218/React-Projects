@@ -1,0 +1,61 @@
+/* .main-container{
+     background-color: #aeb2b5; 
+    padding: 15px;
+    margin: 25px;
+    
+} */
+
+
+
+
+label{
+    color: #708090;
+    
+}
+h2{
+    color: #3b88d1;
+    margin-top: 20px;
+  
+}
+
+#f-form{
+    width: 600px;
+    height: 600px;
+    background-color: white;
+    box-shadow: 10px 10px 10px ;
+
+}
+
+#m-container{
+    height: 675px;
+    background-color: #1f6dad;
+    background-image: linear-gradient(180deg, #1f6dad, #aeb2b5);
+}
+
+
+/* .container-fluid{
+    background-color: white;
+    width: 92%;
+    text-align: left;
+} */
+
+
+/* input[type=password],[type=text],[type=email]{
+    width: 100%;
+    display: inline-block;
+    height: 50px;
+} */
+
+/* select{
+    width: 100%;
+    display: inline-block;
+    height: 50px;
+    color: #708090;
+    background-color: white;
+    border-color: white;
+    outline: whitesmoke;
+    
+} */
+
+
+

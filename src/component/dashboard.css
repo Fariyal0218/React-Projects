@@ -1,0 +1,70 @@
+.topnav-right{
+    width: 100%;
+    background-color:#c7cbd1;
+    overflow: auto;
+    
+}
+.topnav-right a{
+    
+    padding: 12px;
+    color: #2371b9;
+    text-decoration: none;
+    font-size: 20px;
+    float: right;
+      
+    
+}
+.topnav-right a:hover{
+background-color: white;
+}
+
+@media screen and (max-width: 
+500px){
+    .topnav-right a{
+        display:block;
+        
+    }
+}
+
+.btnn{
+    background-color: #2371b9;
+    color: white;
+    border-radius: 20px;
+    width: 200px;
+}
+textarea {
+    width: 440px;
+    height: 100px;
+  }
+.m-container{
+      width:500px;
+      height: 600px;
+      padding: 30px;
+      margin-top: 50px;
+      background-color: lightgray;
+      
+  }
+   input[type=text],[type=email]{
+      width: 100%;
+      display: inline-block;
+      height: 50px;
+       
+  }
+
+
+ table{
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+ }
+
+ td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  
